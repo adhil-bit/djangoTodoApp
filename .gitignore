@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django related files
+*.log
+db.sqlite3
+
+# Secret key
+*.secret
+
+# Media files
+media/
+
+# Static files
+static/
+
+# Virtual environment
+venv/
+.env
+
+# IDE files
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+# Dependency folders
+env/
+node_modules/
+
+# Compiled languages
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
